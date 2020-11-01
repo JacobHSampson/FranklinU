@@ -13,8 +13,15 @@ Convert data column to a datetime format, subtract the max date from each date t
 Convert the number of days to number of months, and add the number of months column to the data set. Finally, save the data set as csv.
 
 10/25/2020
-Added Assignment 3 from colab.
+Added Assignment 4 from colab.
 Imported two baseball data sets from frankData612, people and salaries.
 Merged those sets on playerID.
 Dropped columns that are irrelevant with missing data ('birthState', 'birthCity', 'deathState','deathCity').
 Filled in other columns with missing values with a defaut value.
+
+
+10/31/2020  
+Addd Assignment 5 from colab.
+Using stock data from frankData612.
+Changed price changes to category type.
+Changed beta (3Y Monthly) to string type.
