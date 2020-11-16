@@ -25,3 +25,10 @@ Addd Assignment 5 from colab.
 Using stock data from frankData612.
 Changed price changes to category type.
 Changed beta (3Y Monthly) to string type.
+
+11/15/2020
+Added Assignment 6 from colab.
+Using stock data from frankData612.
+Used regex to separate percent changed and price change columns.
+Created a function to return the mean, sum, mode, median, and range.
+Note: I could not get this function to work with .apply() method.
