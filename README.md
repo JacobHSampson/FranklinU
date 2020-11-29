@@ -32,3 +32,9 @@ Using stock data from frankData612.
 Used regex to separate percent changed and price change columns.
 Created a function to return the mean, sum, mode, median, and range.
 Note: I could not get this function to work with .apply() method.
+
+11/29/2020
+Added Assignment 7 from colab.
+Using stock data from frankData612.
+Modified the given function to find the difference between the weekly average price_at_close and 1Y target est.
+Dropped the require for df.category.isin and used the mean instead of the sum.
