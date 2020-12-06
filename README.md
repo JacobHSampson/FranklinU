@@ -38,3 +38,11 @@ Added Assignment 7 from colab.
 Using stock data from frankData612.
 Modified the given function to find the difference between the weekly average price_at_close and 1Y target est.
 Dropped the require for df.category.isin and used the mean instead of the sum.
+
+12/06/2020
+Added Assignment 3 from colab.
+Using water table data from drivendata competition.
+Made a pairplot to visualize correlations, a kernel density plot between population and construction_year.
+Cleaned the population and construction_year columns and took the log of population for a better kernel density plot.
+Showed that log(population) is approximately normal with a histogram.
+
